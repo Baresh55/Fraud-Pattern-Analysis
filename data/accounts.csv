@@ -1,0 +1,7 @@
+AccountID,CustomerID,AccountType,Currency,OpenDate
+A001,C001,Savings,UGX,01/01/2024
+A002,C002,Current,usd,Feb 10 2024
+A003,C003,Mobile,UGX ,2024-03-05
+A004,C004,Savings,UGX,03/15/2024
+A005,C005,Mobile,UGX,Apr 01 2024
+A006,C006,Current,USD,05/01/2024

@@ -1,0 +1,16 @@
+TransactionID,CustomerID,AccountID,TransactionDate,Amount,TransactionType,Channel,DestinationCountry,IsFraud,IsLaundered,RiskScore
+T001,C001,A001,01/05/2025,"1,200",Deposit,Branch,Uganda,0,0,20
+T002,C001,A001,Jan 20 2025,950,Transfer,Mobile,Kenya,1,1,65
+T003,C002,A002,02/01/2025,5000,Transfer,Mobile,Nigeria,1,1,85
+T004,C003,A003,02/10/2025,300,Withdrawal,ATM,Uganda,0,0,15
+T005,C004,A004,Mar 05 2025,"2,500",Transfer,Mobile,Tanzania,1,0,55
+T006,C005,A005,03/10/2025,7000,Transfer,Mobile,UAE,1,1,90
+T007,C005,A005,03/10/2025,7000,Transfer,Mobile,UAE,1,1,90
+T008,C006,A006,01/15/2025,400,Deposit,Branch,Rwanda,0,0,10
+T009,C002,A002,Feb 20 2025,4800,Transfer,Mobile,Nigeria,1,1,88
+T010,C001,A001,03/15/2025,"1,100",Transfer,Mobile,Kenya,1,0,60
+T011,C003,A003,03/18/2025,350,Withdrawal,ATM,Uganda ,0,0,18
+T012,C004,A004,01/25/2025,"2,000",Deposit,Branch,Tanzania,0,0,25
+T013,C005,A005,02/28/2025,6800,Transfer,Mobile,UAE,1,1,92
+T014,C002,A002,03/02/2025,5100,Transfer,Mobile,Nigeria,1,1,87
+T015,C001,A001,02/14/2025,999,Transfer,Mobile,Kenya,1,1,70

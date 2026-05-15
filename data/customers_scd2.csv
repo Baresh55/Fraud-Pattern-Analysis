@@ -1,0 +1,9 @@
+CustomerID,CustomerName,Country,RiskCategory,KYCStatus,Occupation,EffectiveDate
+C001,John  Doe,Uganda,Low,Verified,Trader,01/01/2025
+C001,John Doe ,uganda,Medium,Verified,Trader,Feb 15 2025
+C002,Mary@N,Kenya,High,Pending,N/A,2025-01-10
+C003,Peter O,Uganda ,Low,Verified,Farmer,01/20/2025
+C004,Alice K,Tanzania,Medium,Verified,Teacher,Mar 01 2025
+C005,Brian K,Uganda,High,Pending,Engineer,02/02/2025
+C005,Brian K ,uganda,High,Verified,Engineer,03/05/2025
+C006,N/A,Rwanda,Low,Verified,N/A,01/25/2025
